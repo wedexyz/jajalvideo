@@ -1,1 +1,1 @@
-# jajalvideo
+https://wedexyz.github.io/jajalvideo/
