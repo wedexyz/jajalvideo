@@ -4,6 +4,9 @@ Polygon Template
 
 https://templatemo.com/tm-400-polygon
 
+
+
+
 */
 .zoom {
 	padding: 50px;
@@ -214,6 +217,7 @@ a.menu-toggle-btn {
 	-moz-background-size: 125%;
 	background-size: 125%;
 	visibility: visible;
+	 
 
 	-webkit-transform: rotate(-60deg);
 	-moz-transform: rotate(-60deg);
@@ -225,12 +229,13 @@ a.menu-toggle-btn {
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
 	-ms-transition: all 0.5s ease;
-	transition: all 0.5s ease;
+	 transition: all 0.5s ease;
 }
 
 .hexagon-in2:hover {
 	webkit-box-shadow: inset 0 0 0 200px rgba(36,36,36, 0.7);
 	box-shadow: inset 0 0 0 200px rgba(36,36,36, 0.7);
+	
 }
 .s_top	{ margin-top: 8%; }
 
@@ -754,6 +759,7 @@ and (max-width : 559px)	{
 
   .responsive-menu {
     display: block;
+	
   }
 
   .main_menu {
